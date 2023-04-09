@@ -1,4 +1,4 @@
-# Olá, me chamo Guilherme! 👋
+# Olá, me chamo Guilherme 👋
 
 - 😄 Tenho 31 anos e estudo programação desde 2016. 
 - 🌱 Atualmente estou focando meus estudos no React;
