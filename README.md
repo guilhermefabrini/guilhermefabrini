@@ -1,13 +1,3 @@
-# Olá, me chamo Guilherme 
-Sou técnico em informática e as vezes gosto de usar meu tempo livre desenvolvendo bugs para a internet.
-Atualmente tenho focado meus estudos quase inteiramente em Javascript, especialmente porque venho trabalhando em um sistema de apoio logístico desenvolvido com Node.js e Express.
-
-##### Muito obrigado por visitar meu perfil aqui do GitHub. 
-Se quiser trocar uma ideia comigo, sinta-se à vontade para me contatar usando algum dos métodos abaixo. 
-
-Um abração! 👋
-
-
 ###### Contatos:
 
 <div>
